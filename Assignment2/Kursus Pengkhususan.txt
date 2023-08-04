@@ -1,0 +1,46 @@
+No.    Category                       Name                                                Maximum    Minimum      Total
+18    Kursus Pengkhususan             Perawatan Renal/ Nefrologi                              381        331       2157 
+19    Kursus Pengkhususan             Kejururawatan Kesihatan Awam                            326        206       1634 
+20    Kursus Pengkhususan             Perawatan Pediatrik                                     283        182       1440 
+21    Kursus Pengkhususan             Perawatan Ortopedik                                     249        200       1393 
+22    Kursus Pengkhususan             Perawatan Neonat                                        237        140       1115 
+23    Kursus Pengkhususan             Pengurusan Diabetis                                     233        142       1034 
+24    Kursus Pengkhususan             Kawalan Infeksi                                         176        143        987 
+25    Kursus Pengkhususan             Perawatan Oftalmik                                       80         47        370 
+26    Kursus Pengkhususan             Penjagaan Kesihatan Primer                              109         52        427 
+27    Kursus Pengkhususan             Perawatan Perianestesia                                 154        104        773 
+28    Kursus Pengkhususan             Pengurusan Makmal                                         0          0          0 
+29    Kursus Pengkhususan             Perawatan Neurosains                                     63         32        284 
+30    Kursus Pengkhususan             Perawatan Otorinolaringologi                             54         30        262 
+31    Kursus Pengkhususan             Perubatan Sukan                                          50          0        147 
+32    Kursus Pengkhususan             Gastrointestinal Endoscopy                               99         51        446 
+33    Kursus Pengkhususan             Penyiasatan & Pendakwaan Undang-Undang                   19         10         80 
+34    Kursus Pengkhususan             Perawatan Rehabilitasi                                   52         30        265 
+35    Kursus Pengkhususan             Rawatan Ortodontik                                       26          0         77 
+36    Kursus Pengkhususan             Kesihatan Persekitaran                                    0          0          0 
+37    Kursus Pengkhususan             Anaesthesia                                              18          0         57 
+38    Kursus Pengkhususan             Rawatan Peridontik                                       22          0         22 
+39    Kursus Pengkhususan             Kaunseling HIV/AIDS                                      98         14        322 
+40    Kursus Pengkhususan             Pembedahan Mulut (Maksilofasial)                          0          0          0 
+41    Kursus Pengkhususan             Kesihatan & Keselamatan Pekerja                           0          0          0 
+42    Kursus Pengkhususan             Mikrobiologi Perubatan                                   20          0         20 
+43    Kursus Pengkhususan             Penjagaan Pergigian Pediatrik                            25          0         25 
+44    Kursus Pengkhususan             Hemeostasis                                               0          0          0 
+45    Kursus Pengkhususan             Sediaan Farmaseutikal Steril                             19          0         81 
+46    Kursus Pengkhususan             Patologi Kimia                                            0          0          0 
+47    Kursus Pengkhususan             Neurofisiologi Klinikal                                  10          0         10 
+48    Kursus Pengkhususan             Tomografi Berkomputer                                    48          0         79 
+49    Kursus Pengkhususan             Forensik                                                 18          0         72 
+50    Kursus Pengkhususan             Parasitologi                                              0          0          0 
+51    Kursus Pengkhususan             Muskulo - Skeletal                                        0          0          0 
+52    Kursus Pengkhususan             Keselamatan & Kebersihan Makanan                          0          0          0 
+53    Kursus Pengkhususan             Prostesis Maksilofasial                                  16          0         16 
+54    Kursus Pengkhususan             Perancangan Terapi Pancaran                               0          0          0 
+55    Kursus Pengkhususan             Bioteknologi                                              0          0          0 
+56    Kursus Pengkhususan             Cytogenetics                                              0          0          0 
+57    Kursus Pengkhususan             Epidemiologi dan Kawalan Penyakit                        18          0         18 
+58    Kursus Pengkhususan             Kardiopulmonari Fisioterapi                               0          0          0 
+59    Kursus Pengkhususan             Neurologi Fisioterapi                                     0          0          0 
+60    Kursus Pengkhususan             Penjagaan Dermatologi                                    36          0         59 
+61    Kursus Pengkhususan             Penjagaan Luka                                           30          0         30 
+62    Kursus Pengkhususan             Penjagaan Reumatologi                                    14          0         14 

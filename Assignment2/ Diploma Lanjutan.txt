@@ -1,0 +1,18 @@
+No.    Category                       Name                                                Maximum    Minimum      Total
+1      Diploma Lanjutan               Diploma Lanjutan Kebidanan                             1203        962       6598 
+2      Diploma Lanjutan               Diploma Lanjutan Penjagaan Rapi                         147        113        771 
+3      Diploma Lanjutan               Diploma Lanjutan Perawatan Perioperatif                 160        104        802 
+4      Diploma Lanjutan               Diploma Lanjutan Kesihatan Kardiovascular               136        107        719 
+5      Diploma Lanjutan               Diploma Lanjutan Perawatan Onkologi                      55          0        260 
+6      Diploma Lanjutan               Diploma Lanjutan Perawatan Gerontologi                   57         11        158 
+7      Diploma Lanjutan               Diploma Lanjutan Sitologi                                24          0         58 
+8      Diploma Lanjutan               Diploma Lanjutan Transfusi Darah                         38          0         38 
+9      Diploma Lanjutan               Diploma Lanjutan Histopatologi                           14          0         14 
+10     Diploma Lanjutan               Diploma Lanjutan Pengimejan Perubatan (Payudara)         16          0         50 
+11     Diploma Lanjutan               Diploma Lanjutan Haematologi                             27          0         70 
+12     Diploma Lanjutan               Diploma Lanjutan Penjagaan Paliatif                      20         17        108 
+13     Diploma Lanjutan               Diploma Lanjutan Perawatan Kesihatan Mental              98         61        482 
+14     Diploma Lanjutan               Diploma Lanjutan Penjagaan Kecemasan                    535        235       2422 
+15     Diploma Lanjutan               Diploma Lanjutan Pengurusan Penjagaan Kesihatan          39          0        119 
+16     Diploma Lanjutan               Diploma Lanjutan Penjagaan Respiratori                   27          0         59 
+17     Diploma Lanjutan               Diploma Lanjutan Rehabilitasi Neuro                      25          0         30 
